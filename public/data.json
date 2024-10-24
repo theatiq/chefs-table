@@ -1,0 +1,99 @@
+[
+    {
+      "recipe_image": "https://i.ibb.co.com/DVvZMY4/download.jpg",
+      "recipe_id": "001",
+      "recipe_name": "Chicken Curry",
+      "short_description": "A spicy and flavorful chicken curry made with rich spices.",
+      "ingredients": [
+        "500 g chicken breast",
+        "200 ml coconut milk",
+        "2 tbsp curry powder",
+        "1 onion",
+        "3 cloves garlic",
+        "1 tbsp ginger"
+      ],
+      "preparing_time": 40,
+      "calories": 450
+    },
+    {
+      "recipe_image": "https://i.ibb.co.com/GWwdmNY/download-1.jpg",
+      "recipe_id": "002",
+      "recipe_name": "Beef Tacos",
+      "short_description": "Mexican-style beef tacos with fresh toppings.",
+      "ingredients": [
+        "300 g minced beef",
+        "6 taco shells",
+        "1 onion",
+        "100 g lettuce",
+        "50 g cheese",
+        "2 tbsp taco seasoning"
+      ],
+      "preparing_time": 25,
+      "calories": 400
+    },
+    {
+      "recipe_image": "https://i.ibb.co.com/TPZKqwf/Margherita-Pizza.jpg",
+      "recipe_id": "003",
+      "recipe_name": "Quinoa Salad",
+      "short_description": "A healthy and fresh quinoa salad with vegetables.",
+      "ingredients": [
+        "200 g quinoa",
+        "100 g cucumber",
+        "50 g cherry tomatoes",
+        "1 avocado",
+        "30 g feta cheese",
+        "2 tbsp olive oil"
+      ],
+      "preparing_time": 20,
+      "calories": 300
+    },
+    {
+      "recipe_image": "https://i.ibb.co.com/w6kdMmn/download-2.jpg",
+      "recipe_id": "004",
+      "recipe_name": "Banana Bread",
+      "short_description": "Moist and delicious banana bread perfect for any time.",
+      "ingredients": [
+        "3 ripe bananas",
+        "200 g flour",
+        "100 g sugar",
+        "1 tsp baking powder",
+        "50 g butter",
+        "1 egg"
+      ],
+      "preparing_time": 60,
+      "calories": 350
+    },
+    {
+      "recipe_image": "https://i.ibb.co.com/8s89Q0K/spaghetti.png",
+      "recipe_id": "005",
+      "recipe_name": "Grilled Salmon",
+      "short_description": "Tender grilled salmon with a lemon garlic butter sauce.",
+      "ingredients": [
+        "200 g salmon fillet",
+        "2 tbsp olive oil",
+        "1 lemon",
+        "3 cloves garlic",
+        "1 tbsp parsley",
+        "Salt and pepper"
+      ],
+      "preparing_time": 30,
+      "calories": 420
+    },
+    {
+      "recipe_image": "https://i.ibb.co.com/HKQG7q0/caesar.png",
+      "recipe_id": "006",
+      "recipe_name": "Vegan Burger",
+      "short_description": "A flavorful vegan burger made with black beans and vegetables.",
+      "ingredients": [
+        "400 g black beans",
+        "1 onion",
+        "100 g breadcrumbs",
+        "50 g carrots",
+        "1 tsp cumin",
+        "1 tsp paprika"
+      ],
+      "preparing_time": 35,
+      "calories": 310
+    }
+  ]
+  
