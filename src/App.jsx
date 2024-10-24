@@ -51,7 +51,9 @@ const App = () => {
           cooking={cooking}
           calculateTotalTimeAndCalories={calculateTotalTimeAndCalories}
           totalTime={totalTime}
-          
+          totalCalories={totalCalories}
+
+
         ></Cookings>
       </div>
 

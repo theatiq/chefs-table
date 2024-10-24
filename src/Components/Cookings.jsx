@@ -88,7 +88,7 @@ const Cookings = ({
               <th></th>
               <td></td>
               <td>Total Time = {totalTime} </td>
-              <td>{totalCalories} </td>
+              <td>Total Calories = {totalCalories} </td>
             </tr>
           </tbody>
         </table>
